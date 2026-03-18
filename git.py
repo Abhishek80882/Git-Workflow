@@ -1,1 +1,1 @@
-print("How are You, I ama Abhishek................")
+print("How are You, I ama ")
